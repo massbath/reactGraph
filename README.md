@@ -4,3 +4,5 @@ Application WEB qui a pour but d'aider à générer plusieurs scénarios en construi
 
 Les fichiers nommés *.steps contiennent les étapes qui peuvent être ensuite utilisés par l'application pouré générer des scénarios.
 
+Une fois le graphe généré, il est possoble de demander la génération des différents scénarios et de les télécharger dans une archive.
+
